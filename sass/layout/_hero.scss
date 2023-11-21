@@ -1,0 +1,35 @@
+
+.main{
+    background: $siteBackground;
+    padding: 200px 0;
+
+}
+.site-hero{
+    display: flex;
+    gap: 100px;
+    // margin-top: 250px;
+    h1{
+        width: 463px;
+        color: $textColor;
+        font-size: 45px;
+        font-weight: 800;
+        line-height: 65px; 
+        margin-bottom: 14px;
+    }
+    img{
+        width: 100%;
+
+    }
+    p{  margin: 15px 0px 25px 0px;
+        color: $textColor;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 24px; 
+        margin-bottom: 29px;
+    }
+}   
+
+
+
+
+
